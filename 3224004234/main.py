@@ -28,6 +28,11 @@ def ngram_counter(text: str, n: int) -> Counter:
     """切分字符n-gram，统计频次；n<=0抛异常"""
     if n <= 0:
         raise ValueError("n必须大于0")
+    if len(text) < n:
+        return Counter()
+    # 二元组是默认场景，用zip一次配对，避免循环切片产生大量临时字符串，速度更快
+    if n == 2:
+        return Counter(zip(text, text[1:]))
     counter = Counter()
     for i in range(len(text) - n + 1):
         gram = text[i:i+n]
