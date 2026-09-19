@@ -1,0 +1,5 @@
+# 运行主程序无需任何第三方依赖（标准库实现）。
+# 以下为可选的开发/分析工具：
+# matplotlib    # 运行 tools/profile_report.py 时用于生成 PNG 性能图（不装亦可生成 SVG）
+# snakeviz      # 可视化 profile.stats 的另一种方式
+# pytest        # 也可用标准库 unittest 运行测试

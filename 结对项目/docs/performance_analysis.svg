@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="440">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="490.0" y="32" text-anchor="middle" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="20">生成 10000 道题目时各函数累计耗时 Top 10</text>
+<text x="420" y="80" text-anchor="end" font-family="Consolas, monospace" font-size="13">fractions.py:206 __new__</text>
+<rect x="430" y="64" width="430.0" height="22" fill="#4c72b0"/>
+<text x="866.0" y="80" font-family="Consolas, monospace" font-size="13">0.0716s</text>
+<text x="420" y="114" text-anchor="end" font-family="Consolas, monospace" font-size="13">generator.py:43 _build</text>
+<rect x="430" y="98" width="414.4" height="22" fill="#4c72b0"/>
+<text x="850.4134822237517" y="114" font-family="Consolas, monospace" font-size="13">0.0690s</text>
+<text x="420" y="148" text-anchor="end" font-family="Consolas, monospace" font-size="13">fractions.py:1021 _richcmp</text>
+<rect x="430" y="132" width="340.3" height="22" fill="#4c72b0"/>
+<text x="776.3353524467382" y="148" font-family="Consolas, monospace" font-size="13">0.0567s</text>
+<text x="420" y="182" text-anchor="end" font-family="Consolas, monospace" font-size="13">random.py:245 _randbelow_with_getrandbits</text>
+<rect x="430" y="166" width="293.0" height="22" fill="#4c72b0"/>
+<text x="729.0265341934692" y="182" font-family="Consolas, monospace" font-size="13">0.0488s</text>
+<text x="420" y="216" text-anchor="end" font-family="Consolas, monospace" font-size="13">random.py:335 randint</text>
+<rect x="430" y="200" width="266.4" height="22" fill="#4c72b0"/>
+<text x="702.3682762336997" y="216" font-family="Consolas, monospace" font-size="13">0.0444s</text>
+<text x="420" y="250" text-anchor="end" font-family="Consolas, monospace" font-size="13">~:0 &lt;built-in method builtins.isinstance&gt;</text>
+<rect x="430" y="234" width="265.6" height="22" fill="#4c72b0"/>
+<text x="701.622116341696" y="250" font-family="Consolas, monospace" font-size="13">0.0442s</text>
+<text x="420" y="284" text-anchor="end" font-family="Consolas, monospace" font-size="13">expression.py:80 canonical</text>
+<rect x="430" y="268" width="239.5" height="22" fill="#4c72b0"/>
+<text x="675.4819082506307" y="284" font-family="Consolas, monospace" font-size="13">0.0399s</text>
+<text x="420" y="318" text-anchor="end" font-family="Consolas, monospace" font-size="13">generator.py:67 _choose_operator</text>
+<rect x="430" y="302" width="218.0" height="22" fill="#4c72b0"/>
+<text x="654.0161547686023" y="318" font-family="Consolas, monospace" font-size="13">0.0363s</text>
+<text x="420" y="352" text-anchor="end" font-family="Consolas, monospace" font-size="13">generator.py:56 _random_value</text>
+<rect x="430" y="336" width="209.7" height="22" fill="#4c72b0"/>
+<text x="645.6601244414167" y="352" font-family="Consolas, monospace" font-size="13">0.0349s</text>
+<text x="420" y="386" text-anchor="end" font-family="Consolas, monospace" font-size="13">expression.py:41 leaf</text>
+<rect x="430" y="370" width="180.8" height="22" fill="#4c72b0"/>
+<text x="616.7531818835411" y="386" font-family="Consolas, monospace" font-size="13">0.0301s</text>
+</svg>

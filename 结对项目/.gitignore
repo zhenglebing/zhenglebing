@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 程序运行时生成的产物
+Exercises.txt
+Answers.txt
+Grade.txt
+profile.stats
+docs/performance_analysis.png
+
+# 测试与覆盖率
+.coverage
+htmlcov/
+.pytest_cache/
